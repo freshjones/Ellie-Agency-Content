@@ -1,9 +1,0 @@
-[title]
-Directions
-
-[body]
-Go here
-Then go there
-Then go this way
-After that go here
-and then your done
