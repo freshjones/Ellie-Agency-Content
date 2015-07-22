@@ -1,0 +1,17 @@
+[
+  {
+    "file": "cat3.jpg",
+    "alt": "Cat 3",
+    "title": "Cat 3"
+  },
+  {
+    "file": "cat2.jpg",
+    "alt": "Cat 2",
+    "title": "Cat 2"
+  },
+  {
+    "file": "cat1.jpg",
+    "alt": "Cat 1",
+    "title": "Cat 1"
+  }
+]
